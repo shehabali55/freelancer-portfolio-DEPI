@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(0, 0, 0 , 1.0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    /* font-family: 'Brush Script MT', cursive; */
+    font-size: 2.5rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.progress {
+    height: 20px;
+}
+
+.progress-bar {
+    font-size: 1rem;
+    background-color: teal;
+    transition: width 2s; 
+}
+
+
+.color{
+    color: #0d6efd;
+    
+}
+
+.hover:hover{
+    transform: scale(1.255);
+}
